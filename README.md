@@ -6,6 +6,7 @@
 3. [Failure discovery and diagnosis](https://github.com/NetManAIOps/AIOps-Challenge-2020-Data)
 
 Please cite our paper of constructing benchmark datasets:
+```
 @misc{zeyan2023constructing,
   title = {Constructing Large-Scale Real-World Benchmark Datasets for AIOp},
   author = {Li, Zeyan and Zhao, Nengwen and Zhang, Shenglin and Sun, Yongqian and Chen, Pengfei and Wen, Xidao and Ma, Minghua and Pei, Dan},
@@ -14,14 +15,15 @@ Please cite our paper of constructing benchmark datasets:
   archiveprefix = {arXiv},
   primaryclass = {cs.SE},
 }
+```
 
 ## Open Source Projects 
 1. KPI anomaly detection
   - [Donut](https://github.com/NetManAIOps/donut)
   - [JumpStarter](https://github.com/NetManAIOps/JumpStarter)
-  - [OmniAnomaly https://github.com/NetManAIOps/OmniAnomaly
-  - [Domi https://github.com/NetManAIOps/DOMI_code
-  - [Kontrast https://github.com/NetManAIOps/kontrast
+  - [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly)
+  - [Domi](https://github.com/NetManAIOps/DOMI_code)
+  - [Kontrast](https://github.com/NetManAIOps/kontrast)
 2. Log analysis
   - [LogClass](https://github.com/NetManAIOps/LogClass)
   - [Log2Vec](https://github.com/NetManAIOps/Log2Vec)
